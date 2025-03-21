@@ -135,6 +135,10 @@ h2 {
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
+#mb-3{
+    width: 120%;
+    height: 120%;
+}
 
 .formulario button {
     background-color: #35302d;
