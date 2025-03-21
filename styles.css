@@ -185,6 +185,9 @@ h2 {
 .alto-contraste .nav-link{
     color: var(--alto-contraste-link);
 }
+#ft-menor{
+    height: 120%;
+}
 
 .alto-contraste .botao-inicio,
 .alto-contraste .formulario button,
